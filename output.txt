@@ -1,0 +1,31 @@
+=== Task 1 ===
+[ACCESS DENIED] You lack permission to view: salary_sheet.png
+--> [SLOW] Reading salary_sheet.png from hard drive...
+Displaying salary_sheet.png on screen!
+
+=== Task 2 ===
+--> [AUDIT] Video has been played 1 time(s).
+--> [DOWNLOADING] Connecting to server & buffering 4K video: Cat_Memes.mp4
+Playing video: Cat_Memes.mp4
+--> [AUDIT] Video has been played 2 time(s).
+Playing video: Cat_Memes.mp4
+--> [AUDIT] Video has been played 3 time(s).
+Playing video: Cat_Memes.mp4
+
+=== Task 3 ===
+Connected to site: wikipedia.org
+[BLOCKED BY FIREWALL] Cannot access: gaming.com
+
+=== Task 4 ===
+Smart Light glows bright white.
+[Remote] Mute button pressed!
+Smart Light brightness set to: 0%
+
+=== Task 5 ===
+[Party Remote] Pumping up the party!
+Radio starts playing static/music.
+Radio volume knob turned to: 100
+
+=== Task 6 ===
+Slash! Dealing 20 physical damage.
+Zap! Dealing 35 magic damage.
